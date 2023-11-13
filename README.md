@@ -44,7 +44,7 @@ curl -X POST \
 
 The frontend of this project is developed using Next.js and TypeScript. It provides a user-friendly interface for interacting with the Text Summarizer API.
 
-Frontend URL: [https://brief-io.vercel.app/](https://brief-io.vercel.app/)
+Frontend URL: [https://aitextsummarizer-kappa.vercel.app/)
 
 ### How to Use the Frontend
 
